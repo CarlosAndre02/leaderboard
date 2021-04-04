@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto Mono', monospace;
+    background-color: #16A086;
+    color: white;
+}
+
+.container {
+    text-align: center;
+}
+
+table {
+    margin: 8rem auto;
+    background-color: #1b4332;
+}
+
+caption {
+    padding: 0.5rem 0;
+    background-color: #1b4332;
+    border: 2px solid white;
+}
+
+th,td {
+    padding: 0.5rem;
+    border: 2px solid white;
+}
+
+img {
+    max-height: 50px;
+    max-width: 50px;
+}
+
+button {
+    height: 35px; 
+    padding: 0.6rem;   
+    background-color: #84a98c;
+    font-family: inherit;
+    color: inherit;
+}
+
+h2 {
+    margin-bottom: 1rem;
+}
+
+input {
+    padding-left: 0.5rem;
+    margin-bottom: 2rem;
+    height: 35px; 
+    font-family: inherit;
+}
